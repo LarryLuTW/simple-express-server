@@ -7,8 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "license": "MIT License",
-  "author": "Larry Lu <pudding850806@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Larry850806/simple-express-server.git"
+  },
+  "license": "MIT",
+  "author": "Larry Lu",
   "dependencies": {
     "express": "^4.16.2"
   }
