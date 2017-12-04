@@ -1,10 +1,11 @@
 # simple-express-server
 
-A simeple server for [articla name](url)
+A simple server for [article name](url), built with Node.js framework experss
 
 ## Requirements
 
 - node > 6
+[download Node.js here](nodejs.org)
 
 ## How to run this
 
