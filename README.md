@@ -1,7 +1,7 @@
 # simple-express-server
 
 A simple server for [一步一步帶你 dockerize 你的應用
-](https://larrylu.blog/step-by-step-dockerize-your-app-ecd8940696f4), built with Node.js framework experss
+](https://larrylu.blog/step-by-step-dockerize-your-app-ecd8940696f4), built with Node.js framework express
 
 ## Requirements
 
