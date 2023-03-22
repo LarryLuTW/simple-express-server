@@ -1,9 +1,5 @@
-FROM node:9.2.0
-
+FROM node:18.15
 COPY index.js package.json /app/
-
 WORKDIR /app
-
-RUN npm install && npm cache clean --force
-
+RUN npm ci && npm clean cache --force
 CMD node index.js
