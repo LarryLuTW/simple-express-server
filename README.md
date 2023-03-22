@@ -1,18 +1,13 @@
 # simple-express-server
 
-A simple server for [Docker 實戰系列（一）：一步一步帶你 dockerize 你的應用](https://larrylu.blog/step-by-step-dockerize-your-app-ecd8940696f4), built with Node.js framework express
+This dockerized Node.js server is the example used in the article titled [Dockerize Your App: An Introduction to Docker](https://dev.to/larrylutw/dockerize-your-app-an-introduction-to-docker-324d).
 
-## Requirements
-
-- node > 6 <br />
-[download Node.js here](nodejs.org)
-
-## How to run this
+## Run the api server
 
 ### 1. clone this repo
 
 ```bash
-git clone https://github.com/Larry850806/simple-express-server
+git clone https://github.com/LarryLuTW/simple-express-server.git
 cd simple-express-server
 ```
 
